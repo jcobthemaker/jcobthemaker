@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Jacob
 
-<!--
-**jcobthemaker/jcobthemaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on **Go**, **networked systems**, and **high-performance backend services**.
 
-Here are some ideas to get you started:
+I enjoy building systems that deal with **real-time communication, efficient data access, and network-level operations**. My work often explores how backend services handle concurrency, manage connections, and maintain performance under load.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  What I Build
+
+My projects focus on backend infrastructure and networking concepts, including:
+
+* **Real-time services** using WebSockets
+* **Caching layers and API backends**
+* **TCP networking tools and connection analysis**
+* **CLI utilities for system and network inspection**
+
+These projects explore practical backend engineering topics such as **connection management, concurrent request handling, and efficient data flow**.
+
+---
+
+## Technologies
+
+Languages and tools I commonly work with:
+
+* **Go**
+* **REST APIs**
+* **WebSockets**
+* **TCP/IP networking**
+* **Git**
+* **Linux**
+
+---
+
+## Engineering Interests
+
+Areas I’m particularly interested in exploring:
+
+* Cloud solutions
+* Concurrent and networked systems
+* Backend service architecture
+* Network protocols and socket programming
+* High-performance server design
+* System-level tooling
